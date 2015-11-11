@@ -8,4 +8,6 @@
         Martin Cisneros Capistrán
     </author>
     <content src="index.html" />    
+
+    <feature name="debug-server" required="false" />
 </widget>
