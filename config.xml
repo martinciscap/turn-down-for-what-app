@@ -9,7 +9,7 @@
     </author>
     <content src="index.html" />    
 
-    <gap:plugin name="device" src="npm" />
-    <gap:plugin name="file" src="npm" />
-    <gap:plugin name="media" src="npm" />    
+    <gap:plugin name="device" source="npm" />
+    <gap:plugin name="file" source="npm" />
+    <gap:plugin name="media" source="npm" />    
 </widget>
