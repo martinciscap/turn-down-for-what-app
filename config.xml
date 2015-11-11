@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.PCSolutions.turndownforwhat" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Turn Down For What</name>
+    <description>
+        A simple app to play TDFW
+    </description>
+    <author email="martin.cisneros@gmail.com" href="http://idevsoftware.blogspot.com">
+        Martin Cisneros Capistrán
+    </author>
+    <content src="index.html" />    
+</widget>
