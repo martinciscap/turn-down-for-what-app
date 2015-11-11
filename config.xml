@@ -9,8 +9,7 @@
     </author>
     <content src="index.html" />    
 
-    <feature name="debug-server" required="false" />
-    <feature name="network" required="false" />	
-	<feature name="media" />	
-	<feature name="file" />
+    <gap:plugin name="device" src="npm" />
+    <gap:plugin name="file" src="npm" />
+    <gap:plugin name="media" src="npm" />    
 </widget>
